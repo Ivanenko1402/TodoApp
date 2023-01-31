@@ -1,6 +1,6 @@
 # Web application TODOs list.
 
-1. [DEMO LINK](https://ivanenko1402.github.io/react_phone-catalog/)
+1. [DEMO LINK](https://ivanenko1402.github.io/react_todo-app-with-api/)
 
 1. Tech stack:
     - HTML5
