@@ -1,4 +1,12 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# Web application TODOs list.
+
+1. [DEMO LINK](https://ivanenko1402.github.io/react_phone-catalog/)
+
+1. Tech stack:
+    - HTML5
+    - CSS
+    - TS
+    - React
+
+1. Used:
+    - BULMA.
